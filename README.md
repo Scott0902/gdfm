@@ -18,10 +18,6 @@
 
 特别感谢：
 
-1、简书网的“嗷呜呜”解析荔枝网JS代码的加密算法：荔枝网 or 广东网络广播电视台？sign逆向
+1、简书网的“嗷呜呜”解析荔枝网JS代码的加密算法：荔枝网 or 广东网络广播电视台？sign逆向（原链接：https://www.jianshu.com/p/212e6abd19f5）
 
-原链接：https://www.jianshu.com/p/212e6abd19f5
-
-2、CSDN的“王里木目心”提供了HmacSHA256算法和Base64编码：
-
-原链接：https://blog.csdn.net/HAH_HAH/article/details/120154454
+2、CSDN的“王里木目心”提供了HmacSHA256算法和Base64编码：（原链接：https://blog.csdn.net/HAH_HAH/article/details/120154454）
